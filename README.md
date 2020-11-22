@@ -1,1 +1,1 @@
-Contains cheatsheets of various web related technologies
+Contains cheatsheets of various web related technologies and databases
